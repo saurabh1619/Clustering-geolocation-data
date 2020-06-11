@@ -1,1 +1,2 @@
+# Clustering-geolocation-data
 Analyzing geo-location data intelligently can actually unravel immense use cases to work on. I have prepared a clustering script wherein i utilized and compared clustering through traditional kmeans and HDBScan (Hierarchical Density-Based Spatial Clustering of Applications with Noise). One of the main problem that HDBScan solves is, identifying the outliers and shed a light on the how the presence of outliers, actually effect the overall clustering (Silhouette) score. 
